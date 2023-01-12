@@ -2,7 +2,7 @@
 <h3 align="center">A software developer in school</h3>
 
 
-- 🔭 I’m currently working on **urheilupaivakirja**
+- 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **Introduction to Programming and programming project**
 
