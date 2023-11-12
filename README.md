@@ -2,9 +2,9 @@
 <h3 align="center">A software developer in school</h3>
 
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **3 projects**
 
-- 🌱 I’m currently learning **Introduction to Programming and programming project**
+- 🌱 I’m currently learning **unity/c#, Roblox studio/Lua and react**
 
 - 📫 How to reach me **cperakivi@gmail.com**
 
