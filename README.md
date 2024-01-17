@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **cperakivi@gmail.com**
 
-- ⚡ Fun fact **i like a lot of games**
+- ⚡ Fun fact **Average videgame enjoyer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
